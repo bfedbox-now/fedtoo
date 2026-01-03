@@ -1,1 +1,1 @@
-console.log("Fed Box site loaded!");
+console.log("Fed Too site loaded!");
